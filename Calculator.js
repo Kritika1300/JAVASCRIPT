@@ -1,5 +1,5 @@
 HTML FILE 
-<!-- create table -->
+
 <body>
 <div class = title >Edureka JavaScript Calculator</div>
 <table border="1">
